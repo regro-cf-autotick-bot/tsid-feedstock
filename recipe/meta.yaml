@@ -1,5 +1,5 @@
 {% set name = "tsid" %}
-{% set version = "1.6.0" %}
+{% set version = "1.6.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/stack-of-tasks/{{ name }}/releases/download/v{{ version }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 0180b23611f62a5e9539422702d5e21d6db2a277c0e9cdb3d282755f07addb70
+  sha256: 59950ff019d96575b8a4229355b81fab0488306d04ae953805128a4759119067
 
 build:
   number: 0
