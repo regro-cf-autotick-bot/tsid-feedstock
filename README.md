@@ -1,11 +1,11 @@
-About tsid
-==========
+About tsid-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tsid-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/stack-of-tasks/tsid
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tsid-feedstock/blob/main/LICENSE.txt)
 
 Summary: TSID is a C++ library for optimization-based inverse-dynamics control based on the rigid multi-body dynamics library Pinocchio.
 
